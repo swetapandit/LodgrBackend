@@ -1,0 +1,11 @@
+C:\Users\SWETAKUM\Desktop\CapgeminiProject\HotelManagementSystem\Backend\HotelManagement\HotelManagementSystem.ModelLayer\bin\Debug\net8.0\HotelManagementSystem.ModelLayer.deps.json
+C:\Users\SWETAKUM\Desktop\CapgeminiProject\HotelManagementSystem\Backend\HotelManagement\HotelManagementSystem.ModelLayer\bin\Debug\net8.0\HotelManagementSystem.ModelLayer.dll
+C:\Users\SWETAKUM\Desktop\CapgeminiProject\HotelManagementSystem\Backend\HotelManagement\HotelManagementSystem.ModelLayer\bin\Debug\net8.0\HotelManagementSystem.ModelLayer.pdb
+C:\Users\SWETAKUM\Desktop\CapgeminiProject\HotelManagementSystem\Backend\HotelManagement\HotelManagementSystem.ModelLayer\obj\Debug\net8.0\HotelManagementSystem.ModelLayer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\SWETAKUM\Desktop\CapgeminiProject\HotelManagementSystem\Backend\HotelManagement\HotelManagementSystem.ModelLayer\obj\Debug\net8.0\HotelManagementSystem.ModelLayer.AssemblyInfoInputs.cache
+C:\Users\SWETAKUM\Desktop\CapgeminiProject\HotelManagementSystem\Backend\HotelManagement\HotelManagementSystem.ModelLayer\obj\Debug\net8.0\HotelManagementSystem.ModelLayer.AssemblyInfo.cs
+C:\Users\SWETAKUM\Desktop\CapgeminiProject\HotelManagementSystem\Backend\HotelManagement\HotelManagementSystem.ModelLayer\obj\Debug\net8.0\HotelManagementSystem.ModelLayer.csproj.CoreCompileInputs.cache
+C:\Users\SWETAKUM\Desktop\CapgeminiProject\HotelManagementSystem\Backend\HotelManagement\HotelManagementSystem.ModelLayer\obj\Debug\net8.0\HotelManagementSystem.ModelLayer.dll
+C:\Users\SWETAKUM\Desktop\CapgeminiProject\HotelManagementSystem\Backend\HotelManagement\HotelManagementSystem.ModelLayer\obj\Debug\net8.0\refint\HotelManagementSystem.ModelLayer.dll
+C:\Users\SWETAKUM\Desktop\CapgeminiProject\HotelManagementSystem\Backend\HotelManagement\HotelManagementSystem.ModelLayer\obj\Debug\net8.0\HotelManagementSystem.ModelLayer.pdb
+C:\Users\SWETAKUM\Desktop\CapgeminiProject\HotelManagementSystem\Backend\HotelManagement\HotelManagementSystem.ModelLayer\obj\Debug\net8.0\ref\HotelManagementSystem.ModelLayer.dll

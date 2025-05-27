@@ -1,0 +1,17 @@
+C:\Users\SWETAKUM\Desktop\CapgeminiProject\HotelManagementSystem\Backend\HotelManagement\HotelManagementSystem.RepositoryLayer\bin\Debug\net8.0\HotelManagementSystem.RepositoryLayer.deps.json
+C:\Users\SWETAKUM\Desktop\CapgeminiProject\HotelManagementSystem\Backend\HotelManagement\HotelManagementSystem.RepositoryLayer\bin\Debug\net8.0\HotelManagementSystem.RepositoryLayer.dll
+C:\Users\SWETAKUM\Desktop\CapgeminiProject\HotelManagementSystem\Backend\HotelManagement\HotelManagementSystem.RepositoryLayer\bin\Debug\net8.0\HotelManagementSystem.RepositoryLayer.pdb
+C:\Users\SWETAKUM\Desktop\CapgeminiProject\HotelManagementSystem\Backend\HotelManagement\HotelManagementSystem.RepositoryLayer\bin\Debug\net8.0\HotelManagementSystem.ModelLayer.dll
+C:\Users\SWETAKUM\Desktop\CapgeminiProject\HotelManagementSystem\Backend\HotelManagement\HotelManagementSystem.RepositoryLayer\bin\Debug\net8.0\HotelManagementSystem.ModelLayer.pdb
+C:\Users\SWETAKUM\Desktop\CapgeminiProject\HotelManagementSystem\Backend\HotelManagement\HotelManagementSystem.RepositoryLayer\obj\Debug\net8.0\HotelManagementSystem.RepositoryLayer.csproj.AssemblyReference.cache
+C:\Users\SWETAKUM\Desktop\CapgeminiProject\HotelManagementSystem\Backend\HotelManagement\HotelManagementSystem.RepositoryLayer\obj\Debug\net8.0\HotelManagementSystem.RepositoryLayer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\SWETAKUM\Desktop\CapgeminiProject\HotelManagementSystem\Backend\HotelManagement\HotelManagementSystem.RepositoryLayer\obj\Debug\net8.0\HotelManagementSystem.RepositoryLayer.AssemblyInfoInputs.cache
+C:\Users\SWETAKUM\Desktop\CapgeminiProject\HotelManagementSystem\Backend\HotelManagement\HotelManagementSystem.RepositoryLayer\obj\Debug\net8.0\HotelManagementSystem.RepositoryLayer.AssemblyInfo.cs
+C:\Users\SWETAKUM\Desktop\CapgeminiProject\HotelManagementSystem\Backend\HotelManagement\HotelManagementSystem.RepositoryLayer\obj\Debug\net8.0\HotelManagementSystem.RepositoryLayer.csproj.CoreCompileInputs.cache
+C:\Users\SWETAKUM\Desktop\CapgeminiProject\HotelManagementSystem\Backend\HotelManagement\HotelManagementSystem.RepositoryLayer\obj\Debug\net8.0\HotelMan.C83F185B.Up2Date
+C:\Users\SWETAKUM\Desktop\CapgeminiProject\HotelManagementSystem\Backend\HotelManagement\HotelManagementSystem.RepositoryLayer\obj\Debug\net8.0\HotelManagementSystem.RepositoryLayer.dll
+C:\Users\SWETAKUM\Desktop\CapgeminiProject\HotelManagementSystem\Backend\HotelManagement\HotelManagementSystem.RepositoryLayer\obj\Debug\net8.0\refint\HotelManagementSystem.RepositoryLayer.dll
+C:\Users\SWETAKUM\Desktop\CapgeminiProject\HotelManagementSystem\Backend\HotelManagement\HotelManagementSystem.RepositoryLayer\obj\Debug\net8.0\HotelManagementSystem.RepositoryLayer.pdb
+C:\Users\SWETAKUM\Desktop\CapgeminiProject\HotelManagementSystem\Backend\HotelManagement\HotelManagementSystem.RepositoryLayer\obj\Debug\net8.0\ref\HotelManagementSystem.RepositoryLayer.dll
+C:\Users\SWETAKUM\Desktop\CapgeminiProject\HotelManagementSystem\Backend\HotelManagement\HotelManagementSystem.RepositoryLayer\bin\Debug\net8.0\HotelManagementSystem.RepositoryLayer.runtimeconfig.json
+C:\Users\SWETAKUM\Desktop\CapgeminiProject\HotelManagementSystem\Backend\HotelManagement\HotelManagementSystem.RepositoryLayer\obj\Debug\net8.0\HotelManagementSystem.RepositoryLayer.genruntimeconfig.cache

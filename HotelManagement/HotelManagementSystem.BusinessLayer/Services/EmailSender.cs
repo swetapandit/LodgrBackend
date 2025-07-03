@@ -7,8 +7,6 @@ namespace HotelManagementSystem.BusinessLayer.Services
 {
     public class EmailSender : IEmailSender
     {
-        private readonly string _email = "team.colatodo@gmail.com";
-        private readonly string _password = "aoyo geeb bjxi gxhm";
 
         public EmailSender()
         {

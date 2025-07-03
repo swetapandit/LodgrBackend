@@ -7,7 +7,7 @@ namespace HotelManagementSystem.BusinessLayer.Services
 {
     public class EmailSender : IEmailSender
     {
-
+        // enter your email credentials
         public EmailSender()
         {
         }
